@@ -4,6 +4,6 @@ This is an open source gold price checking script. It checks gold price where st
 
 # Usage
 After install with `yard add` or `npm install`, you can run the script with following commands 
-- `node index.js [wantedPrice (must be a number)]`
+- `node index.js [wantedPrice (must be a number)] [minutes (checking interval which is optional, default is 1)]`
 - `yarn start [wantedPrice]`
 - `npm run start [wantedPrice]`
